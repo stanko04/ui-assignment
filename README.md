@@ -7,5 +7,5 @@ Algorithm which is used is called Hungry search algorithm or Greedy algorithm **
 Project is implemented in programming language **Java**.
 
 ## For more information click on these links 
-### [Documentation, analysis of algorithm and etc. in slovak language](DOC/doc_assign1.pdf)
+### [Documentation, analysis of algorithm, description of source code and etc. in slovak language](DOC/doc_assign1.pdf)
 ### [Source code](src/Tree.java)
