@@ -1,1 +1,1 @@
-# ui-assignment
+# Artificial intelligence algorithm #1
